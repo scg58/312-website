@@ -94,19 +94,6 @@ img {
 }
 
 
-.btn {
-  display: inline-block;
-  background: black;
-  color: white;
-  padding: .8rem 1.8rem;
-  margin-top: 2rem;
-  cursor: pointer;
-}
-
-.btn:hover {
-  opacity: 0.8;
-}
-
 
 nav {
   height: 50px;
