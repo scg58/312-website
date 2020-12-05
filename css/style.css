@@ -78,8 +78,9 @@ width: 50%;
 height: 500px;;
 }
 
-.image .banner{
-
+.image .banner {
+  max: 100%;
+}
 
 .card-1{
 text-align: center;
@@ -172,6 +173,14 @@ margin: 0;
 padding: 0 20;
 }
 
+a{
+  color: white;
+  text-decoration: none;
+  
+}
+
+
+
 nav a {
 font-family:"PT Serif", sans-serif;
 display: block;
@@ -193,9 +202,13 @@ color: white;
 text-decoration: none;
 background-image: url(..//images/wp3422858.jpg);
 height: 65vh;
-padding-top: 10%;
+padding-top: 5%;
 }
 
+h2{
+  padding-bottom: 2%;
+  font-size: 3rem;
+}
 html {
   box-sizing: border-box;
 }
