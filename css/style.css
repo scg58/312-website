@@ -75,12 +75,10 @@ width: 50%;
 }
 
 .image .guitar {
-height: 500px;;
+height: 580px;
+padding-left: 30%;
 }
 
-.image .banner {
-  max: 100%;
-}
 
 .card-1{
 text-align: center;
@@ -100,6 +98,8 @@ margin-right: auto;
 padding-bottom: 5%;
 }
 
+
+
 .card-2{
 text-align: center;
 width: 100%;
@@ -107,7 +107,8 @@ height: 65vh;
 display: block;
 margin-left: auto;
 margin-right: auto;
-padding-bottom:45%;
+padding-bottom:55%;
+padding-left: 10%;
 }
 
 .card-8{
