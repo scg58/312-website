@@ -66,8 +66,24 @@ padding: 20px;
 
 .flex-container {
 display: flex;
-justify-content: space-around;
+justify-content: flex-end;
 text-align: left;
+justify-content: center;
+}
+
+.flex-container a{
+  padding: 0 50px;
+  font-size: 2rem;
+}
+
+.flex-container-cultural{
+flex-direction: column;
+align-items: center;
+padding: 20px;
+}
+
+.flex-container-cultural img{
+  width: 100%;
 }
 
 .image {
