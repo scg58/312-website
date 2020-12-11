@@ -96,10 +96,13 @@ padding: 20px;
   width: 100%;
 }
 
-.flex-container-playing img, .flex-container-smoking img, .flex-container-obama, .flex-container-band{
+.flex-container-playing, .flex-container-smoking, .flex-container-obama, .flex-container-band{
   margin-left: auto;
   margin-right: auto;
+text-align: center;
+margin-top: 1rem;
 }
+
 
 .image {
 width: 50%;
@@ -110,7 +113,6 @@ height: 580px;
 padding-left: 30%;
 padding-top: 6%;
 }
-
 
 
 .card-6, .card-7, .card-5, .card-4, .card-3, .card-1{
